@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">trental_demo</string>
+    <string name="facebook_app_id">408500777168241</string>
+    <string name="fb_login_protocol_scheme">fb408500777168241</string>
+
+
+</resources>
